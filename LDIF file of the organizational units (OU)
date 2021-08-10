@@ -1,0 +1,8 @@
+dn: ou=permenent,dc=Itacademy,dc=com
+objectclass: organizationalunit
+ou: permanent
+description: Employee Type
+
+dn: ou=contractor,dc=Itacademy,dc=com
+objectclass: organizationalunit
+ou: contractor
