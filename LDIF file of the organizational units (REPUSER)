@@ -1,0 +1,5 @@
+dn: cn=replicationuser,ou=System,dc=Itacademy,dc=com
+objectclass: inetOrgPerson
+objectclass: person
+cn: replicationuser
+sn: replicationuser
